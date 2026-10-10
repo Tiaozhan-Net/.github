@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://space.bilibili.com/35599185"><img alt="请看我们的B站主页" src="https://img.shields.io/badge/See%20us%20on%20BILIBILI-FF6699?style=for-the-badge&logo=bilibili&logoColor=00A1D6" height="40"></a>
   <a href="https://xhslink.cn/m/5aHoG5KHLpO"><img alt="请看我们的小红书主页" src="https://img.shields.io/badge/See%20us%20on%20REDNOTE-FF2E4D?style=for-the-badge&logo=xiaohongshu&logoColor=white" height="40"></a>
-   <a href="https://v.douyin.com/RAkgV88NmeM/"><img alt="请看我们的抖音主页" src="https://img.shields.io/badge/See%20us%20on%20Douyin-black?style=for-the-badge&logo=tiktok&logoColor=white" height="40"></a>
+  <a href="https://v.douyin.com/RAkgV88NmeM/"><img alt="请看我们的抖音主页" src="https://img.shields.io/badge/See%20us%20on%20Douyin-black?style=for-the-badge&logo=tiktok&logoColor=white" height="40"></a>
 </p>
 
 <p align="center">
