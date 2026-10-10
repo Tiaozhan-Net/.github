@@ -41,14 +41,6 @@
         </a>
       <br>
       <sub>挑战网首页, 2026</sub>
-      <br>
-      <a href="https://tuanwei.xjtu.edu.cn/">
-        <picture>
-      <img alt="Tuanwei Index" src="imgs/Works/Tech-w3.png">
-        </picture>
-        </a>
-      <br>
-      <sub>交大青年之声, 2026</sub>
       </td>
     </tr>
     <tr>
@@ -60,19 +52,19 @@
       <h3>作品展示</h3>
        <a href="">
         <picture>
-      <img alt="zhaoxin" src="imgs\Works\Video-w2.jpg">
+      <img alt="zhaoxin" src="imgs\Works\Zhaoxin.jpg">
         </picture>
         </a>
       <br>
-      <sub>招新视频, 2025</sub>
+      <sub>招新视频, 2026</sub>
       <br>
       <a href="">
         <picture>
-      <img alt="Double 11" src="imgs\Works\Video-w3.jpg">
+      <img alt="Double 11" src="imgs\Works\CameraTravel.jpg">
         </picture>
         </a>
       <br>
-      <sub>【双十一特辑】西交爱情故事 | 如果不曾与你邂逅, 2026</sub>
+      <sub>相机漂流活动, 2026</sub>
       </td>
       <td width="50%" valign="top">
       <h2>🎨美工部</h2>
@@ -80,19 +72,9 @@
       <h3>在美工部，你将能够</h3>
       学习到 平面设计理论与实操，你将能设计 独具风格的海报、网页等，你将学习使用 Photoshop、Adobe Illustrator、Adobe XD、Figma等软件，让你的创意成为社团的“视觉名片”。
       <h3>作品展示</h3>
-       <a href="">
-        <picture>
-      <img alt="ZhaoxinWuliao" src="imgs\Works\Art-w2.jpg">
-        </picture>
-        </a>
+      <img alt="ZhaoxinWuliao" src="imgs\Works\Wuliao.png">
       <br>
-      <a href="">
-        <picture>
-      <img alt="ZhaoxinWuliao" src="imgs\Works\Art-w3.jpg">
-        </picture>
-        </a>
-      <br>
-      <sub>招新物料, 2025</sub>
+      <sub>招新物料, 2026</sub>
       </td>
     </tr>
 </table>
